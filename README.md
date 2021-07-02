@@ -19,4 +19,5 @@ Neural Netowrk: q30a25640702 (เรียนรู้ 30 คำถาม เม
 8. เผยแพร่ให้ประชาชนเข้าถึงง่าย
 
 Cradit
-Osvaldas Valutis เป็นผู้ออกแบบ User Interface และเผยแพร่ Source Code ต้นแบบ ที่ https://osvaldas.info ทำให้ผู้พัฒนาสามารถประยุกต์ใช้และดำเนินโครงการนี้ได้
+
+Osvaldas Valutis เป็นผู้ออกแบบ User Interface และเผยแพร่ Source Code ต้นแบบ ที่ https://osvaldas.info ทำให้ผู้พัฒนาสามารถประยุกต์ใช้และทำโครงการนี้ได้
