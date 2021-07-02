@@ -7,3 +7,11 @@ Engine: FAQ รุ่น 1.0 (ต้นแบบ)
 Neural netowrk: q30a25640702 ผ่านการเรียนรู้คำตอบของ 30 คำถาม เมื่อวันที่ 2 กรกฎาคม พ.ศ. 2564 
 
 ผู้พัฒนา: Monte Kietpawpan (monte.k@mnre.go.th) ปรับปรุงจาก Osvaldas Valutis (https://osvaldas.info)
+
+เทคนิคการเขียน
+1. รวบรวมคำถาม-คำตอบ ที่ประชาชนถามบ่อย
+2. จัดทำไฟล์ Engine (FAQ.html) และ Neural Network (q30a20210702.html) 
+3. คัดลอก text คำตอบ วางที่ https://wordtohtml.net/ เพื่อแปลง text เป็น simple html script และจัดรูปแบบ
+4. คัดลอก simple html script ตามข้อ 3 วางใน q30a20210702.html เพื่อปรับปรุงสมองให้ AI รอบรู้มากขึ้น
+5. เพิ่มจำนวนคำถาม-คำตอบ ที่น่าสนใจ
+6. หมั่นปรับปรุงคำตอบให้ถูกต้อง ทันสมัย
