@@ -7,4 +7,4 @@ Engine เรียกว่า AIO 1.0 หมายถึง AI Operator รุ
 Neural netowrk เรียกว่า qxxayyyymmdd เช่น q30a25640702 หมายถึง network นี้ สามารถตอบคำถามได้ 30 คำถาม และให้คำตอบที่ปรับปรุงล่าสุด เมื่อวันที่ 2 กรกฎาคม 2564 
 
 ผู้พัฒนา: มนตรี เกียรติเผ่าพันธ์ ผอ.ศบร.ทส. (monte.k@mnre.go.th) 
-ที่มา: ปรับปรุงจาก source code ของ Osvaldas Valutis (https://osvaldas.info/real-time-search-in-javascript)
+ที่มา: ปรับปรุงจาก source code ของ Osvaldas Valutis (https://osvaldas.info)
