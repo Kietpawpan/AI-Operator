@@ -23,6 +23,7 @@ Credit
 Osvaldas Valutis เป็นผู้ออกแบบ User Interface และเผยแพร่ Code ต้นแบบ ที่ https://osvaldas.info ทำให้ผู้พัฒนาสามารถประยุกต์ใช้ได้
 
 History
+
 8 ก.ค. 64
 - Train สมอง q30a640708 // ตอบคำถามนำเข้าเลื่อยโซ่ยนต์ กิจการซ่อมเลื่อยโซ่ยนต์
 - ปรับ FAQ เป็น version 708 
